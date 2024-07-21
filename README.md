@@ -1,3 +1,3 @@
 # Machine-Learning
-SPPU Assignments
+SPPU 
 Assignments done during the semester in jupyter notebook.
